@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a85bd80-a3ca-47ab-9366-b2cf4c6d4761" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="sfhdob77" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2W2tvVfQGeDn9njJKzwT0NeL3Tr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a85bd80-a3ca-47ab-9366-b2cf4c6d4761" name="Default Changelist" comment="" />
+      <created>1695942733749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695942733749</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="105" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1695942913710">
+      <screen x="0" y="0" width="1296" height="816" />
+    </state>
+    <state x="105" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1296.816@0.0.1296.816" timestamp="1695942913710" />
+    <state x="280" y="0" key="CommitChangelistDialog2" timestamp="1695942921127">
+      <screen x="0" y="0" width="1296" height="816" />
+    </state>
+    <state x="280" y="0" key="CommitChangelistDialog2/0.0.1296.816@0.0.1296.816" timestamp="1695942921127" />
+  </component>
+</project>

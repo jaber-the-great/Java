@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="FirstGUI_idea">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="a4d46" class="javax.swing.JButton" binding="click" custom-create="true">
+        <constraints/>
+        <properties>
+          <background color="-3390378"/>
+          <font name="Ayuthaya" size="16" style="2"/>
+          <text value="Button"/>
+          <toolTipText value="this is very goog"/>
+        </properties>
+      </component>
+      <component id="a64aa" class="javax.swing.JRadioButton" binding="radioButton3" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="RadioButton"/>
+        </properties>
+      </component>
+      <component id="52487" class="javax.swing.JRadioButton" binding="radioButton2" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="RadioButton"/>
+        </properties>
+      </component>
+      <component id="b95e5" class="javax.swing.JRadioButton" binding="radioButton1" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="RadioButton"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
